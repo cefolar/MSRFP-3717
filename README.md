@@ -55,6 +55,7 @@ From these methods and from user interviews, we were able to refine our personas
 
 From the personas we crafted, we distilled our user stories, brief narratives of how a typical user might interact with our prototype. These user stories were then prioritized and assigned to several sprints. *[[Initial User Stories]](https://github.com/CambriaSolutions/MSRFP-3717/blob/master/artifacts/Human-Centered-Design-Artifacts/User%20Stories%20(Spreadsheet).xlsx)* *[[User Stories]](https://github.com/CambriaSolutions/MSRFP-3717/blob/master/artifacts/User%20Stories.pdf)*
 
+
 Through our crowdsourcing initiative in Mississippi, we were able to engage a caseworker (private-contractor) and a foster parent. These individuals were very involved throughout the design and development process and provided valuable input that helped the development team build a highly-functional prototype. They also participated in usability testing. *[[User Meeting Minutes]](https://github.com/CambriaSolutions/MSRFP-3717/tree/master/artifacts/User-Research/Semi-Formal-Interviews)*
 
 # Design
@@ -88,3 +89,5 @@ We chose Kudu for continuous integration, which enabled us to run tests in isola
 We used Azure as our production PaaS provider.  Azure provides rapid standup and deployment of containerized apps on any platform.  Operations is built in with the ability to integrate continuous deployment, alerts and real time traffic and site monitoring. *[[Our PaaS Platform]](https://github.com/CambriaSolutions/MSRFP-3717/blob/master/artifacts/Paas%20Platform.pdf)*
 
 We also describe all the steps necessary to install and run the prototype on another target, if needed. *[[Instructions to install the prototype in another environment]](https://github.com/CambriaSolutions/MSRFP-3717/blob/master/SETUP.md)*
+
+Copyright 2016 - Cambria Solutions
